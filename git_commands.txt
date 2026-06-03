@@ -6,3 +6,4 @@ git add .
 git commit -m "testing files"                                                                                                                                       
 rm testing.py                                                                            
 git restore testing.py 
+git clone
